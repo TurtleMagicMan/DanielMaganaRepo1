@@ -5,3 +5,6 @@ An example:
 
 Another example:
 10 + 20 = 30
+
+Additional example:
+(-20) + 30 = 10
